@@ -12,4 +12,4 @@ Make sure you have [Python](https://www.python.org/downloads/) installed. You'll
 
 To install `colorama`, run:
 ```bash
-pip install colorama```
+pip install colorama
